@@ -1,4 +1,4 @@
-# Tax Application
+# Tax Application 💵
 After a short secession movement, the city of Los Angeles succeeded to gain autonomy.
 One of the main goals for that was to have total control of taxes. And the next logical step is to have a
 software application for taxes. 
